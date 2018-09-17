@@ -2,6 +2,8 @@
 
 The main VI `Fetch git version code.vi` fetch the Git based version code with the Windows _Command Prompt_ of `git describe --tages` command from specified repository/folder. 
 
+![wiring](images/fetch-git-version-code-wiring.png)
+
 To make it works, users must done the following actions:
 
 1. Have Git version control in your LabVIEW project/programming folder
