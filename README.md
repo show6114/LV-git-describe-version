@@ -1,5 +1,9 @@
 # LV-git-describe-version
 
+中文介紹：[在 LabVIEW UI 中加入 git 的版本號](https://show6114.com/2018/12/26/lv-git-describe-version/)
+
+# Intro
+
 The main VI `Fetch git version code.vi` fetch the Git based version code with the Windows _Command Prompt_ of `git describe --tages` command from specified repository/folder. 
 
 ![wiring](images/fetch-git-version-code-wiring.png)
